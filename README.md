@@ -43,6 +43,15 @@ The following image shows the web application's appearance and functionality:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional, deployed application;
 
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+
+* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project;
+
+
+* A Screenshot of the deployed application;
+    ![alt text](./Assets\images\weather-app_screenshot.png)
+
+    All work is my own with the help of the awesome tutors and classmates I have! I also used Google, You Tube, MDN Docs, W3 Schools and any other resource I could find on the web.
+
+
