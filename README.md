@@ -39,14 +39,18 @@ THEN I am again presented with current and future conditions for that city
 You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application;
+    https://jason82autotech.github.io/Weather-App/
 
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project;
+    https://github.com/jason82autotech/Weather-App
+
 
 
 * A Screenshot of the deployed application;
     ![alt text](./Assets\images\weather-app_screenshot.png)
 
     All work is my own with the help of the awesome tutors and classmates I have! I also used Google, You Tube, MDN Docs, W3 Schools and any other resource I could find on the web.
+
 
 
